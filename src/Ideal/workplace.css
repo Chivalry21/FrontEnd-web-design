@@ -1,0 +1,50 @@
+button{
+    border: 5px;
+    padding: 12px 20px;
+    cursor: pointer;
+    background-color: rgb(34, 190, 115);
+    border-radius: 4px;
+    color: #080404;
+    font-size: 16px;
+    transition: all 0.25;
+    text-transform: uppercase;
+    margin: 10px;
+}
+button:hover{
+    transform: scale(1.25);
+}
+.web-space #get-info{
+    background-color: #fff;
+    color: #080404;
+}
+.web-space{
+    background-color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    width: 100%;
+}
+.web-sub-space{
+    background-color: rgb(27, 117, 219);
+    height: 300px;
+    width: 100%;
+    padding: 3rem;
+    color: #fff;
+
+}
+
+.web-space .paragraph{
+    width: 70%;
+    margin: 0 auto;
+}
+.web-space #started{
+    background-color: rgb(34, 190, 115);
+    color: #fff;
+    justify-content: center;
+}   
+.create-workspace{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #fff;
+    margin-bottom: 1rem;
+}
